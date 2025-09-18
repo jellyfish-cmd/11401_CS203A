@@ -1,8 +1,8 @@
 # 11401_CS203A
 ## 📘 Course Information
-- **Course Name:**Data Structures
+- **Course Name:** Data Structures
 - **Course Code:** CS203
-- **Semester:**114-1
+- **Semester:** 114-1
 
 ## 👤 Student Information
 - **Name:** 邱心瑜
