@@ -9,7 +9,7 @@
 - **Student ID:** 1131723
 
 ## 📂 Repository Description
-This repository contains coursework, assignments, and related materials for the course *[課程名稱]*.  
+This repository contains coursework, assignments, and related materials for the course Data Structure.  
 It will include:
 - Lecture notes
 - Assignments
