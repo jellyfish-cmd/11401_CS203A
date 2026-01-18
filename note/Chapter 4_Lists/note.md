@@ -35,6 +35,8 @@ struct node {
     int data;
     struct node* next;
 };
+```
+
 ## 基本操作
 
 ### Traversal（走訪）
@@ -94,7 +96,9 @@ A circular linked list is a linked list where the last node points back to the f
 
 ```
 head → node → node
+
  ^               |
+ 
  └───────────────┘
 
 ```
@@ -144,8 +148,10 @@ structnode*next;
 ---
 
 # 6. Linked List vs Array
-|比較項目	| Array	| Linked List
-| 記憶體	| 連續	|不連續
-|存取	| O(1)	| O(n)
-| 插入刪除	| 慢	| 快
-| 大小	| 固定	| 彈性
+| 比較項目 | Array | Linked List |
+| --- | --- | --- |
+| 記憶體 | 連續 | 不連續 |
+| 存取 | O(1) | O(n) |
+| 插入刪除 | 慢 | 快 |
+| 大小 | 固定 | 彈性 |
+
