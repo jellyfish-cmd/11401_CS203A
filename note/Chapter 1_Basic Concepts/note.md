@@ -29,4 +29,5 @@ Every instruction must be basic enough to be carried out by a person using penci
 
 # Algorithm vs Program
 Algorithm（演算法）：一定會結束
+
 Program（程式）：可以一直跑（例如作業系統）
