@@ -17,8 +17,11 @@ A stack is a linear data structure that follows the Last In First Out (LIFO) pri
 
 ## 結構
 push ↑
+
 [ ]
+
 [ ]
+
 [ ] ← pop
 - 只能從「同一端」進出
 - 不允許從中間拿資料
